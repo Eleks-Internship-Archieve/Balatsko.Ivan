@@ -3,7 +3,7 @@ Practical task of Balatsko Ivan on Eleks Internship (June 2016)
 
 ## Student Info
   
- * Name: Balatsko.Ivan
+ * Name: Balatsko Ivan
  * University: ІФФКК
  * Course: //todo: додайте сюди курс, на якому навчаєтесь
   
